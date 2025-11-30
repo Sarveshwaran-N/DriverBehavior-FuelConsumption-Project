@@ -86,19 +86,24 @@ Dataset used: *Driver Behavior and Route Anomaly Detection (DBRA24)*.
 ## 📌 **How to Use This Repository**
 
 1. Download the repository
-2. Open the Jupyter notebook:
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements_minimal.txt
+   ```
+3. Open the Jupyter notebook:
 
    ```
    Driving Behavior Classification and Fuel Consumption Prediction.ipynb
    ```
-3. Place the dataset (`driver_behavior_route_anomaly_dataset_with_derived_features.csv`) in the same folder
-4. Run the notebook to reproduce:
+4. Place the dataset (`driver_behavior_route_anomaly_dataset_with_derived_features.csv`) in the same folder
+5. Run the notebook to reproduce:
 
    * EDA
    * Clustering
    * Classification model
    * Fuel regression models
-5. Refer to the PDF report and PPTX slides for structured documentation and presentation material.
+6. Refer to the PDF report and PPTX slides for structured documentation and presentation material.
 
 ---
 
