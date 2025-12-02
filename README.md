@@ -127,9 +127,6 @@ These insights enable improved fleet safety, reduced accidents, optimized fuel e
 **3. README.md**
 * Project overview and comprehensive documentation
 
-**4. LICENSE**
-* Project license information
-
 ---
 
 ## **🔧 Technologies & Libraries Used**
